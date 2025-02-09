@@ -1,0 +1,42 @@
+# Java and Spring specific
+*.class
+*.log
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot specific
+*.properties
+*.yml
+*.yaml
+application-dev.yml
+application-prod.yml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Other files
+*.swp
+*~.nfs
+
